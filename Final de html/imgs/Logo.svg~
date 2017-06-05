@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_10">
+   <ellipse ry="18" rx="200" id="svg_9" cy="359" cx="329" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#4c4c4c" fill="#b2b2b2"/>
+   <g id="svg_8">
+    <line id="svg_2" y2="362" x2="382" y1="95" x1="381" stroke-width="5" stroke="#000000" fill="none"/>
+    <line id="svg_3" y2="359" x2="381.999993" y1="358" x1="253" stroke-width="5" stroke="#000000" fill="none"/>
+    <line id="svg_4" y2="359" x2="255" y1="298" x1="255" stroke-width="5" stroke="#000000" fill="none"/>
+    <line id="svg_5" y2="163" x2="281" y1="161" x1="472" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+    <line id="svg_6" y2="160" x2="282" y1="289" x1="283" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+    <line id="svg_7" y2="288" x2="285" y1="284" x1="477" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+   </g>
+  </g>
+ </g>
+</svg>
