@@ -45,7 +45,7 @@
 				<a href="Educacion.html">Educación</a>
 			</nav>
 			<h2>Experiencia</h2>
-	<video src="mmedia/intereses.mp4" width="300px" controls title="Intereses profesionales" poster="imgs/logo.svg"></video>		
+	<video src="mmedia/Intprof.mp4" width="300px" controls title="Intereses profesionales" poster="imgs/logo.svg"></video>		
 	<audio src="mmedia/hobbies.m4a" title="Hobbies y pasatiempos" controls></audio>
 			
 			
