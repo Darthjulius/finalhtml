@@ -42,7 +42,7 @@
 			<nav>
 				<a href="#arriba">Volver Arriba</a> /
 				<a href="index.html">Volver al inicio</a> /
-				<a href="Educacion.html">Educación</a>
+				<a href="Educacion.html" target="_blank">Educación</a>
 			</nav>
 			<h2>Experiencia</h2>
 	<video src="mmedia/intereses.mp4" width="300px" controls title="Intereses profesionales" poster="imgs/logo.svg"></video>		
